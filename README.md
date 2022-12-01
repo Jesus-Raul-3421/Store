@@ -3,7 +3,8 @@
 
 # Instalación
 ## Requisitos
-*Xampp
+
+* Xampp
 
 ## Pasos
 1. Clonar o descargar este repositorio.
