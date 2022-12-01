@@ -1,6 +1,6 @@
 // PRODUCTOS
 const productos = [
-    // Abrigos
+    
     {
         id: "xbox-serie",
         titulo: "xbox serie ",
